@@ -1,0 +1,24 @@
+.header{
+  background: linear-gradient(90deg, #672280 0%, #A626D3 100%);
+  color:white;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:20px;
+}
+.header .header--logo-title{
+  display:flex;
+  align-items:center;
+}
+.header .header--logo-title p{
+  font-family: 'Karla', sans-serif;
+  font-size: 20px;
+}
+.header img{
+  width:31px;
+  height:26px;
+  margin-right:7px;
+}
+.header p{
+  margin:0;
+}
