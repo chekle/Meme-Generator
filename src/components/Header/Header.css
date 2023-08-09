@@ -12,12 +12,16 @@
 }
 .header .header--logo-title p{
   font-family: 'Karla', sans-serif;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 .header img{
   width:31px;
   height:26px;
   margin-right:6px;
+}
+.header .header--course-title{
+  font-size:0.75rem;
+  font-weight:500;
 }
 .header p{
   margin:0;
